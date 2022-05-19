@@ -1,5 +1,8 @@
 # Changelog for `newtype-generics`
 
+## [0.6.2] – 2022-05-19
+- Remove dependency on `transformers`.
+
 ## [0.6.1] – 2021-11-02
 - Support GHC-9.2
 
